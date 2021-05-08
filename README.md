@@ -35,10 +35,10 @@
 
  8. Centro de datos:
 
- 9. IaaS
+ 9. IaaS:
+ 
+ 10. PaaS:
 
- 10. PaaS
+ 11. SaaS:
 
- 11. SaaS
-
- 12. Lenguajes de programación
+ 12. Lenguajes de programación:
