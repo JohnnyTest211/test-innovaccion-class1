@@ -62,7 +62,14 @@ Permite a los usuarios conectarse a aplicaciones basadas en la nube a través de
  10. Fibra óptica:
 
  11. Dirección IP pública:
-
+      Una dirección IP pública es aquella que se le asigna a cualquier dispositivo que se conecte de forma directa a Internet, por ejemplo, el router de casa o los servidores donde se alojan las páginas web. La IP pública es visible desde internet.
+      La IP pública es una dirección única y nunca se puede repetir. La asignan los proveedores de Intener (ISP) y se le conoce también como dirección IP dinámica, puesto que cambia cada vez que reiniciamos el router o cada cierto periodo de tiempo.
+      Existen dos tipos de IP públicas → ***Efímeras*** y ***Reservadas***
+      ***El rango de direcciones IP públicas son:***
+      Clase A: 1.0.0.0 a 126.255.255.255.
+      Clase B: 128.0.0.0 a 191.255.255.255.
+      Clase C: 192.0.0.0 a 223.255.255.255.
+      
  12. Dirección IP privada:
  
   2. Backend:
