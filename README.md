@@ -39,11 +39,6 @@ Permite a los usuarios conectarse a aplicaciones basadas en la nube a través de
 
 ![image](https://user-images.githubusercontent.com/83834540/117559262-65aefc80-b049-11eb-95e7-2f510af955b5.png)
 
-
-# Backend
-
-# Frontend
-
 # Componentes minimos para que la computadora funcione
  
 - Placa madre.
@@ -57,16 +52,17 @@ Es aquella memoria cuya información se pierde al interrumpirse el flujo eléctr
 El tipo de memoria más común de este tipo es la memoria de acceso aleatorio, o RAM.
 
 # Modelo OSI:
-1. Capa física.
-2. Capa de enlace de datos.
-3. Capa de red.
-4. Capa de transporte.
-5. Capa de sesión.
-6. Capa de presentación.
-7. Capa de aplicación.
+1. Capa física: Caracteristicas electricas mecanicas y funcionales para la transmision de bits.
+2. Capa de enlace de datos: Verificación de errores, control de flujo. Direcccionamiento MAC y LLC.
+3. Capa de red: Determinacion de ruta e IP (Direccionamiento logico).
+4. Capa de transporte: Conección de extremo a extremo y fiabilidad de los datos.
+5. Capa de sesión: Comunicación entre los dispositivos de red.
+6. Capa de presentación: Presentación de los datos.
+7. Capa de aplicación: Servicios de red a aplicaciones.
  
 # Fibra óptica
 
+Es una tenologia que usa la luz en vez de la electricidad para la transmisión de datos.Las fibras conducen pulsos de laser o luz LED que transmiten información binaria. La fibra optica puede alcanzar velocidades de transmisión superiores a las demas tecnologias, llegando las mas rapidas diponobles a  Gbps. Usar fibra optica tiene muchas ventajas commo lo son: Aumento y mejoramiento del ancho de banda, mayor velocidad de transmision de datos, se evita interferencias, se mejora la calidad de video y sonido, mas seguridad de red, etc. 
 
 # Dirección IP pública
 Una dirección IP pública es aquella que se le asigna a cualquier dispositivo que se conecte de forma directa a Internet, por ejemplo, el router de casa o los servidores donde se alojan las páginas web. La IP pública es visible desde internet.
@@ -90,25 +86,11 @@ La IP's privadas no son accesibles desde Internet y no cambian, a no ser que las
   - Clase C: 192.168.0.0 a 192.168.255.255.
 
  # Back end:
- 
  Es la parte trasera de cualquier página web. Se trata de todo el conjunto del desarrollo que se encarga de que una página funcione y de que lo haga como lo hace, pero que al mismo tiempo es totalmente invisible para el usuario, que solo ve lo visual y gráfico.
- ![image](https://user-images.githubusercontent.com/83854228/117585615-fbde3380-b0d8-11eb-8bc2-37ebba5cb669.png)
 
 # Front end: 
-
 Es la parte de una web que conecta e interactúa con los usuarios que la visitan. Es la parte visible, la que muestra el diseño, los contenidos y la que permite a los visitantes navegar por las diferentes páginas.
-![image](https://user-images.githubusercontent.com/83854228/117585649-26c88780-b0d9-11eb-9e4f-0c96ea19885f.png)
-
 
 # UDP: 
-
 Es un protocolo su caracteistica más importante es que permite enviar datagramas sin que se haya establecido previamente una conexión. Esto se traduce en la ventaja de poder transmitir con gran velocidad, aunque conlleva que la información transmitida sea fácilmente alterada, la pérdida de paquetes no sea corregida y la clasificación de los paquetes sea parcialmente arbitraria. Por esta razón, las aplicaciones UDP deben estar capacitadas para trabajar correctamente con datagramas perdidos o no clasificados y aplicar sus propios mecanismos de corrección y seguridad. Netflix la utiliza. 
-![image](https://user-images.githubusercontent.com/83854228/117585509-680c6780-b0d8-11eb-906f-cdc3ab242b49.png)
-
-# Repositorio:
-
-Es un sitio centralizado donde se almacena y mantiene información digital, habitualmente bases de datos o archivos informáticos.
-![image](https://user-images.githubusercontent.com/83854228/117585596-ee28ae00-b0d8-11eb-9dba-5befe8fb0d4d.png)
-
-
 
