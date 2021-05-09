@@ -47,6 +47,8 @@ Permite a los usuarios conectarse a aplicaciones basadas en la nube a través de
      - Fuente de alimentación.
 
  8. Memoria volatil:
+    Es aquella memoria cuya información se pierde al interrumpirse el flujo eléctrico (cuando se apaga, se borran todos los datos).
+    El tipo de memoria más común de este tipo es la memoria de acceso aleatorio, o RAM.
 
  9. Modelo OSI:
      1. Capa física.
