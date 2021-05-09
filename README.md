@@ -94,6 +94,7 @@ La IP's privadas no son accesibles desde Internet y no cambian, a no ser que las
 
  # Back end
  Es la parte trasera de cualquier página web. Se trata de todo el conjunto del desarrollo que se encarga de que una página funcione y de que lo haga como lo hace, pero que al mismo tiempo es totalmente invisible para el usuario, que solo ve lo visual y gráfico.
+![image](https://user-images.githubusercontent.com/83854228/117590842-f263c400-b0f6-11eb-8a4f-052dbec636ea.png)
 
 # Front end
 Es la parte de una web que conecta e interactúa con los usuarios que la visitan. Es la parte visible, la que muestra el diseño, los contenidos y la que permite a los visitantes navegar por las diferentes páginas.
@@ -102,6 +103,8 @@ Es la parte de una web que conecta e interactúa con los usuarios que la visitan
 
 # UDP
 Es un protocolo su caracteistica más importante es que permite enviar datagramas sin que se haya establecido previamente una conexión. Esto se traduce en la ventaja de poder transmitir con gran velocidad, aunque conlleva que la información transmitida sea fácilmente alterada, la pérdida de paquetes no sea corregida y la clasificación de los paquetes sea parcialmente arbitraria. Por esta razón, las aplicaciones UDP deben estar capacitadas para trabajar correctamente con datagramas perdidos o no clasificados y aplicar sus propios mecanismos de corrección y seguridad. Netflix la utiliza. 
+![image](https://user-images.githubusercontent.com/83854228/117590831-e24be480-b0f6-11eb-9690-46e9b5a93339.png)
+
  
 # Repositorio:
 
