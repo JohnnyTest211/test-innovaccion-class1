@@ -50,7 +50,7 @@ Permite a los usuarios conectarse a aplicaciones basadas en la nube a través de
 Es aquella memoria cuya información se pierde al interrumpirse el flujo eléctrico (cuando se apaga, se borran todos los datos).
 El tipo de memoria más común de este tipo es la memoria de acceso aleatorio, o RAM.
 
-# Modelo OSI:
+# Modelo OSI
 1. Capa física: Caracteristicas electricas mecanicas y funcionales para la transmision de bits.
 2. Capa de enlace de datos: Verificación de errores, control de flujo. Direcccionamiento MAC y LLC.
 3. Capa de red: Determinacion de ruta e IP (Direccionamiento logico).
@@ -58,6 +58,9 @@ El tipo de memoria más común de este tipo es la memoria de acceso aleatorio, o
 5. Capa de sesión: Comunicación entre los dispositivos de red.
 6. Capa de presentación: Presentación de los datos.
 7. Capa de aplicación: Servicios de red a aplicaciones.
+
+![image](https://user-images.githubusercontent.com/83834540/117590005-0a394900-b0f3-11eb-9f73-e9053fa886c2.png)
+
  
 # Fibra óptica
 ![image](https://user-images.githubusercontent.com/83834540/117589790-6c914a00-b0f1-11eb-8207-f11919db5821.png)
@@ -96,4 +99,5 @@ Es la parte de una web que conecta e interactúa con los usuarios que la visitan
 
 # UDP
 Es un protocolo su caracteistica más importante es que permite enviar datagramas sin que se haya establecido previamente una conexión. Esto se traduce en la ventaja de poder transmitir con gran velocidad, aunque conlleva que la información transmitida sea fácilmente alterada, la pérdida de paquetes no sea corregida y la clasificación de los paquetes sea parcialmente arbitraria. Por esta razón, las aplicaciones UDP deben estar capacitadas para trabajar correctamente con datagramas perdidos o no clasificados y aplicar sus propios mecanismos de corrección y seguridad. Netflix la utiliza. 
-
+ 
+#API
