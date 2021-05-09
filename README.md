@@ -60,7 +60,7 @@ El tipo de memoria más común de este tipo es la memoria de acceso aleatorio, o
 7. Capa de aplicación: Servicios de red a aplicaciones.
  
 # Fibra óptica
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/83834540/117589790-6c914a00-b0f1-11eb-8207-f11919db5821.png)
 
 
 Es una tenologia que usa la luz en vez de la electricidad para la transmisión de datos.Las fibras conducen pulsos de laser o luz LED que transmiten información binaria. La fibra optica puede alcanzar velocidades de transmisión superiores a las demas tecnologias, llegando las mas rapidas diponobles a  Gbps. Usar fibra optica tiene muchas ventajas commo lo son: Aumento y mejoramiento del ancho de banda, mayor velocidad de transmision de datos, se evita interferencias, se mejora la calidad de video y sonido, mas seguridad de red, etc. 
@@ -86,12 +86,14 @@ La IP's privadas no son accesibles desde Internet y no cambian, a no ser que las
   - Clase B: 172.16.0.0 a 172.31.255.255.
   - Clase C: 192.168.0.0 a 192.168.255.255.
 
- # Back end:
+ # Back end
  Es la parte trasera de cualquier página web. Se trata de todo el conjunto del desarrollo que se encarga de que una página funcione y de que lo haga como lo hace, pero que al mismo tiempo es totalmente invisible para el usuario, que solo ve lo visual y gráfico.
 
-# Front end: 
+# Front end
 Es la parte de una web que conecta e interactúa con los usuarios que la visitan. Es la parte visible, la que muestra el diseño, los contenidos y la que permite a los visitantes navegar por las diferentes páginas.
+![image](https://user-images.githubusercontent.com/83834540/117589859-dc9fd000-b0f1-11eb-983d-9b7e2d0e1d24.png)
 
-# UDP: 
+
+# UDP
 Es un protocolo su caracteistica más importante es que permite enviar datagramas sin que se haya establecido previamente una conexión. Esto se traduce en la ventaja de poder transmitir con gran velocidad, aunque conlleva que la información transmitida sea fácilmente alterada, la pérdida de paquetes no sea corregida y la clasificación de los paquetes sea parcialmente arbitraria. Por esta razón, las aplicaciones UDP deben estar capacitadas para trabajar correctamente con datagramas perdidos o no clasificados y aplicar sus propios mecanismos de corrección y seguridad. Netflix la utiliza. 
 
