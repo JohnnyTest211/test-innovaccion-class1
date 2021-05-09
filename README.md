@@ -11,7 +11,6 @@
 
 # ¿Qué es la nube?
   
- (inserte imagen aui de nube XD)
  ![image](https://user-images.githubusercontent.com/83834540/117559755-a6107980-b04d-11eb-9e15-178f4917d8d0.png)
 
  
