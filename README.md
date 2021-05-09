@@ -89,6 +89,9 @@ La IP's privadas no son accesibles desde Internet y no cambian, a no ser que las
   - Clase B: 172.16.0.0 a 172.31.255.255.
   - Clase C: 192.168.0.0 a 192.168.255.255.
 
+![image](https://user-images.githubusercontent.com/83834540/117590108-859afa80-b0f3-11eb-9a73-de127d2e77f6.png)
+
+
  # Back end
  Es la parte trasera de cualquier página web. Se trata de todo el conjunto del desarrollo que se encarga de que una página funcione y de que lo haga como lo hace, pero que al mismo tiempo es totalmente invisible para el usuario, que solo ve lo visual y gráfico.
 
