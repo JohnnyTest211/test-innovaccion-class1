@@ -11,7 +11,8 @@
 ¿Qué es la nube?
   
  (inserte imagen aui de nube XD)
-![image](https://user-images.githubusercontent.com/83834540/117559658-c7249a80-b04c-11eb-9c11-0f7c54e4729f.png)
+ ![image](https://user-images.githubusercontent.com/83834540/117559755-a6107980-b04d-11eb-9e15-178f4917d8d0.png)
+
  
 Son servicios que incluyen servidores, almacenamiento, bases de datos, redes, software, análisis e inteligencia. La informática en la nube ofrece una innovación más rápida, recursos flexibles y economías de escala. La informática en la nube es una forma de alquilar potencia de proceso y almacenamiento de un centro de datos de terceros. La nube ayuda a moverse con más rapidez y a innovar de maneras que antes eran prácticamente imposibles. Algunas de sus ventajas son:
 - Confiabilidad
