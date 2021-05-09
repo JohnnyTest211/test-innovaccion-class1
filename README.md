@@ -80,4 +80,6 @@ Existen dos tipos de IP públicas → ***Efímeras*** y ***Reservadas***
   Clase C: 192.0.0.0 a 223.255.255.255.
       
 # Dirección IP privada:
+La dirección IP privada es una dirección fija que se asigna a cada dispositivo conectado a una red privada o doméstica, es decir, la dirección IP que el router asigna a cada ordenador, smartphones, smart TV, tablet o cualquier otro dispositivo conectado a él.
+
  
