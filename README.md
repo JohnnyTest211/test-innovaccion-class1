@@ -9,16 +9,26 @@
 > ### ***Conceptos***
  1. ¿Qué es la nube?
 
- 2. Componentes minimos para que la computadora funcione:
+ 2. Backend:
+
+ 3. Frontend:
+
+ 4. IaaS:
+
+ 5. PaaS:
+
+ 6. SaaS:
+
+ 7. Componentes minimos para que la computadora funcione:
      - Placa madre.
      - Procesador.
      - Memoria RAM.
      - Memoria ROM.
      - Fuente de alimentación.
 
- 3. Memoria volatil:
+ 8. Memoria volatil:
 
- 4. Modelo OSI:
+ 9. Modelo OSI:
      1. Capa física.
      2. Capa de enlace de datos.
      3. Capa de red.
@@ -27,18 +37,9 @@
      6. Capa de presentación.
      7. Capa de aplicación.
  
- 5. Fibra óptca:
+ 10. Fibra óptica:
 
- 6. Dirección IP pública:
+ 11. Dirección IP pública:
 
- 7. Dirección IP privada:
-
- 8. Centro de datos:
-
- 9. IaaS:
+ 12. Dirección IP privada:
  
- 10. PaaS:
-
- 11. SaaS:
-
- 12. Lenguajes de programación:
