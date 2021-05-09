@@ -60,6 +60,8 @@ El tipo de memoria más común de este tipo es la memoria de acceso aleatorio, o
 7. Capa de aplicación: Servicios de red a aplicaciones.
  
 # Fibra óptica
+![Uploading image.png…]()
+
 
 Es una tenologia que usa la luz en vez de la electricidad para la transmisión de datos.Las fibras conducen pulsos de laser o luz LED que transmiten información binaria. La fibra optica puede alcanzar velocidades de transmisión superiores a las demas tecnologias, llegando las mas rapidas diponobles a  Gbps. Usar fibra optica tiene muchas ventajas commo lo son: Aumento y mejoramiento del ancho de banda, mayor velocidad de transmision de datos, se evita interferencias, se mejora la calidad de video y sonido, mas seguridad de red, etc. 
 
