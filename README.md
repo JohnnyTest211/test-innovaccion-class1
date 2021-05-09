@@ -101,6 +101,6 @@ Es la parte de una web que conecta e interactúa con los usuarios que la visitan
 
 # UDP: 
 Es un protocolo su caracteistica más importante es que permite enviar datagramas sin que se haya establecido previamente una conexión. Esto se traduce en la ventaja de poder transmitir con gran velocidad, aunque conlleva que la información transmitida sea fácilmente alterada, la pérdida de paquetes no sea corregida y la clasificación de los paquetes sea parcialmente arbitraria. Por esta razón, las aplicaciones UDP deben estar capacitadas para trabajar correctamente con datagramas perdidos o no clasificados y aplicar sus propios mecanismos de corrección y seguridad. Netflix la utiliza. 
-![image](https://user-images.githubusercontent.com/83854228/117585509-680c6780-b0d8-11eb-906f-cdc3ab242b49.gif)
+![image](https://user-images.githubusercontent.com/83854228/117585509-680c6780-b0d8-11eb-906f-cdc3ab242b49.png)
 
 
