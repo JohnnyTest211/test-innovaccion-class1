@@ -13,7 +13,7 @@
 
  3. Frontend:
 
- 4. IaaS:
+** 4. IaaS:**
 
  5. PaaS:
 
